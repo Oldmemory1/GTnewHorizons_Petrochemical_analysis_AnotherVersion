@@ -1,0 +1,2 @@
+# GTnewHorizons_Petrochemical_analysis_AnotherVersion
+用于计算GTNH的石化问题，只不过不局限于某种原油，轻重石脑气可以任意搭配，适合处理高辛烷和航空煤油的合成求解问题
